@@ -14,6 +14,7 @@
 		BC50A1461F117FB3009BD750 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC50A1441F117FB3009BD750 /* LaunchScreen.storyboard */; };
 		BC50A1511F117FB3009BD750 /* WordPlayTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC50A1501F117FB3009BD750 /* WordPlayTests.swift */; };
 		BC50A15C1F117FB3009BD750 /* WordPlayUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC50A15B1F117FB3009BD750 /* WordPlayUITests.swift */; };
+		BC50A16A1F119802009BD750 /* ReceiverVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC50A1691F119802009BD750 /* ReceiverVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		BC50A1571F117FB3009BD750 /* WordPlayUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WordPlayUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC50A15B1F117FB3009BD750 /* WordPlayUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordPlayUITests.swift; sourceTree = "<group>"; };
 		BC50A15D1F117FB3009BD750 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BC50A1691F119802009BD750 /* ReceiverVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReceiverVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				BC50A1421F117FB3009BD750 /* Assets.xcassets */,
 				BC50A1441F117FB3009BD750 /* LaunchScreen.storyboard */,
 				BC50A1471F117FB3009BD750 /* Info.plist */,
+				BC50A1691F119802009BD750 /* ReceiverVC.swift */,
 			);
 			path = WordPlay;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC50A13E1F117FB3009BD750 /* ViewController.swift in Sources */,
+				BC50A16A1F119802009BD750 /* ReceiverVC.swift in Sources */,
 				BC50A13C1F117FB3009BD750 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
