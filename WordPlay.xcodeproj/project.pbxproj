@@ -196,6 +196,7 @@
 				TargetAttributes = {
 					BC50A1371F117FB3009BD750 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = R74NPTK23H;
 						ProvisioningStyle = Automatic;
 					};
 					BC50A14B1F117FB3009BD750 = {
@@ -418,6 +419,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = R74NPTK23H;
 				INFOPLIST_FILE = WordPlay/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = DWK.WordPlay;
@@ -430,6 +432,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = R74NPTK23H;
 				INFOPLIST_FILE = WordPlay/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = DWK.WordPlay;
